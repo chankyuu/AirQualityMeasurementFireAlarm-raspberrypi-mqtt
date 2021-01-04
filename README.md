@@ -1,1 +1,4 @@
-# AirQualityMeasurementFireAlarm-raspberrypi-mqtt
+# 공기질 측정 화재경보기
+## mqtt 통신을 이용한 공기질 측정 화재경보기 애플리케이션 개발
+
+
